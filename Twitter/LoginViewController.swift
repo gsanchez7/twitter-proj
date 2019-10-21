@@ -2,7 +2,7 @@
 //  LoginViewController.swift
 //  Twitter
 //
-//  Created by Andrea Amezcua Moreno on 9/29/19.
+//  Created by Gabriel Sanchez on 9/29/19.
 //  Copyright © 2019 Dan. All rights reserved.
 //
 
@@ -36,14 +36,5 @@ class LoginViewController: UIViewController {
         })
     }
 
-    /*
-    // MARK: - Navigation
-
-    // In a storyboard-based application, you will often want to do a little preparation before navigation
-    override func prepare(for segue: UIStoryboardSegue, sender: Any?) {
-        // Get the new view controller using segue.destinationViewController.
-        // Pass the selected object to the new view controller.
-    }
-    */
 
 }

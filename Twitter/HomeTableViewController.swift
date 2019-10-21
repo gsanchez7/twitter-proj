@@ -2,7 +2,7 @@
 //  HomeTableViewController.swift
 //  Twitter
 //
-//  Created by Andrea Amezcua Moreno on 9/30/19.
+//  Created by Gabriel Sanchez on 9/30/19.
 //  Copyright © 2019 Dan. All rights reserved.
 //
 
@@ -99,7 +99,6 @@ class HomeTableViewController: UITableViewController {
         
         return cell
     }
-    
     // MARK: - Table view data source
 
     override func numberOfSections(in tableView: UITableView) -> Int {
@@ -112,5 +111,4 @@ class HomeTableViewController: UITableViewController {
         return tweetArray.count
     }
  
-
 }
