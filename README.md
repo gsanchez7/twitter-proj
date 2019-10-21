@@ -57,4 +57,4 @@ Here's a walkthrough of implemented user stories:
 Here's a walkthrough of implemented bonus features:
 
 
-<img src='https://media.giphy.com/media/ch2sKXp425FAVzwcUn/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://media.giphy.com/media/VHesc5TlED4k0PdwVJ/giphy.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
