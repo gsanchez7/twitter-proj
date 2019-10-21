@@ -1,15 +1,12 @@
-//
 //  TweetCellTableViewCell.swift
 //  Twitter
 //
-//  Created by Gabriel Sanchez on 9/30/19.
+//  Partially Created by Gabriel Sanchez on 9/30/19.
 //  Copyright © 2019 Dan. All rights reserved.
 //
-
 import UIKit
 
 class TweetCellTableViewCell: UITableViewCell {
-
     
     @IBOutlet weak var tweetContent: UILabel!
     @IBOutlet weak var userNameLabel: UILabel!
