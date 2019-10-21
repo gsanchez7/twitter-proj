@@ -1,7 +1,6 @@
-//
+
 //  APIManager.swift
 //  Twitter
-//
 //  Created by Dan on 1/3/19.
 //  Copyright © 2019 Dan. All rights reserved.
 //
